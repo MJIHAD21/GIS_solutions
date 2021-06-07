@@ -5,6 +5,9 @@
 a{
 	color: black !important;
 }
-.navbar-nav>.active>a{
+.navbar-nav li:hover{
+	background-color: #93aacf  !important;
+}
+.navbar-inverse .navbar-nav>.open>a{
 	background-color: #93aacf  !important;
 }
