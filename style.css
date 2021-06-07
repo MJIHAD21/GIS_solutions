@@ -1,0 +1,10 @@
+.navbar{
+	background-color: #e4eaf5 ;
+	color: black;
+}
+a{
+	color: black !important;
+}
+.navbar-nav>.active>a{
+	background-color: #93aacf  !important;
+}
